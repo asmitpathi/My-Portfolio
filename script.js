@@ -22,7 +22,6 @@ burgerMenu.addEventListener('click', () => {
     navLinks.classList.toggle('hidden');
     navLinks.classList.toggle('active');
     burgerMenu.classList.toggle('open');
-    
 });
 
 //Form submission
