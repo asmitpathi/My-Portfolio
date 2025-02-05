@@ -3,7 +3,7 @@
     --bg-color: #e4e4ffa1;
     --text-color: #333333;
     --heading-color: #6094d4;
-    --box-bg: #d3d3ffe2;
+    --box-bg: #d3d3fffa;
     --box-shadow: rgba(0, 0, 0, 0.413);
     --button-bg: #1d508e;
     --button-hover-bg: #123360;
@@ -13,7 +13,7 @@
     --link-color: #304865;
     --link-hover-color: #0f2b53;
     --h2-color: #0054bc;
-    --background-image: url('4.jpg');
+    --background-image: url('bg1.jpg');
     --navbar-burgermenu-color: #9abae4;
 }
 
@@ -31,7 +31,7 @@ body.dark-theme {
     --link-color: #85b6f7;
     --link-hover-color: #3b8bbf;    
     --h2-color: #85b6f7;
-    --background-image: url('3.jpg');
+    --background-image: url('bg2.jpg');
     --navbar-burgermenu-color: #3f618e;
 }
 /*section grid*/
