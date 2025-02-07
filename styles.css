@@ -273,6 +273,7 @@ section {
 
 section:hover{
     transform: scale(1.03);
+    transition-duration: 0.4s;
 }
 
 form input,
@@ -443,6 +444,7 @@ body.show-back-to-top #back-to-top {
 
     section:hover{
         transform: scale(1.03);
+        transition-duration: 0.4s;
     }
 
     h2 {
