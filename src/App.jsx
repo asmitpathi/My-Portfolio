@@ -2,17 +2,14 @@ import styled, { ThemeProvider } from "styled-components";
 import { darkTheme } from "./utils/Themes";
 import Navbar from "./components/Navbar";
 import { BrowserRouter } from "react-router-dom";
-
-import { Suspense, lazy } from "react";
-
-const Hero = lazy(() => import("./components/sections/Hero"));
-const Skills = lazy(() => import("./components/sections/Skills"));
-const Experience = lazy(() => import("./components/sections/Experience"));
-const Education = lazy(() => import("./components/sections/Education"));
-const StartCanvas = lazy(() => import("./components/canvas/Stars"));
-const Projects = lazy(() => import("./components/sections/Projects"));
-const Contact = lazy(() => import("./components/sections/Contact"));
-const Footer = lazy(() => import("./components/sections/Footer"));
+import Hero from "./components/sections/Hero";
+import Skills from "./components/sections/Skills";
+import Experience from "./components/sections/Experience";
+import Education from "./components/sections/Education";
+import StartCanvas from "./components/canvas/Stars";
+import Projects from "./components/sections/Projects";
+import Contact from "./components/sections/Contact";
+import Footer from "./components/sections/Footer";
 
 
 const Body = styled.div`
@@ -44,22 +41,20 @@ function App() {
       <BrowserRouter>
         <Navbar />
         <Body>
-          <Suspense fallback={<div>Loading...</div>}>
-            <StartCanvas />
-            <div>
-              <Hero />
-              <Wrapper>
-                <Skills />
-                <Experience />
-              </Wrapper>
-              <Projects />
-              <Wrapper>
-                <Education />
-                <Contact />
-              </Wrapper>
-              <Footer />
-            </div>
-            </Suspense>
+          <StartCanvas />
+          <div>
+            <Hero />
+            <Wrapper>
+              <Skills />
+              <Experience />
+            </Wrapper>
+            <Projects />
+            <Wrapper>
+              <Education />
+              <Contact />
+            </Wrapper>
+            <Footer />
+          </div>
         </Body>
       </BrowserRouter>
     </ThemeProvider>
