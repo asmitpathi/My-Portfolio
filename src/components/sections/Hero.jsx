@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import { Bio } from "../../data/constants";
-import Typewriter from "typewriter-effect";
+import { Typewriter } from 'react-simple-typewriter';
 import HeroBgAnimation from "../HeroBgAnimation";
 import Tilt from 'react-parallax-tilt';
 import { motion } from "framer-motion";
@@ -233,13 +233,15 @@ const Hero = () => {
                 <TextLoop>
                   I am a
                   <Span>
-                    <Typewriter
-                      options={{
-                        strings: Bio.roles,
-                        autoStart: true,
-                        loop: true,
-                      }}
-                    />
+                  <Typewriter
+                    words={Bio.roles} // This should be an array of strings
+                    loop={true}
+                    cursor
+                    cursorStyle="_"
+                    typeSpeed={50}
+                    deleteSpeed={30}
+                    delaySpeed={1000}
+                  />
                   </Span>
                 </TextLoop>
               </motion.div>
