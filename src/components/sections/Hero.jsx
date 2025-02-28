@@ -257,7 +257,7 @@ const Hero = () => {
             <HeroRightContainer>
               <motion.div {...headContentAnimation}>
                 <Tilt>
-                  <Img src="/images/photo.jpg" alt="Rishav Chanda" />
+                  <Img src="/images/photo.jpg" alt="Asmit Pathi" loading="lazy"/>
                 </Tilt>
               </motion.div>
             </HeroRightContainer>
