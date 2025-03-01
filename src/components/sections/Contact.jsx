@@ -110,25 +110,26 @@ const Contact = () => {
   const form = useRef();
   const handleSubmit = (e) => {
     e.preventDefault();
-    console.log("Form submitted!")
+    console.log("Form submitted!");
+  
     emailjs.sendForm(
-        "service_7wfommj",
-        "template_v5rw1pw",
-        form.current,
-        "fwVHwJ0hjdcS3TPRX"
-      )
-      .then(
-        (response) => {
-          console.log("SUCCESS!", response.status, response.text);
-          alert("Message Sent!");
-          
-        },
-        (error) => {
-          console.error("FAILED...", error);
-          alert("Failed to send email: " + error.text);
-        }
-      );
+      import.meta.env.VITE_EMAILJS_SERVICE_ID,  // Fetch from .env
+      import.meta.env.VITE_EMAILJS_TEMPLATE_ID,  // Fetch from .env
+      form.current,
+      import.meta.env.VITE_EMAILJS_PUBLIC_KEY  // Fetch from .env
+    )
+    .then(
+      (response) => {
+        console.log("SUCCESS!", response.status, response.text);
+        alert("Message Sent!");
+      },
+      (error) => {
+        console.error("FAILED...", error);
+        alert("Failed to send email: " + error.text);
+      }
+    );
   };
+  
   return (
     <Container id="Education">
       <Wrapper>
