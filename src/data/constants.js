@@ -313,12 +313,12 @@ export const projects = [
       "A Currency Converter application that enables users to seamlessly convert currencies in real time using API integration. It provides an intuitive and responsive UI with TailwindCSS, ensuring a smooth user experience. Users can select currencies, enter amounts, and get accurate exchange rates instantly, making international transactions and financial planning effortless.",
     image:"/images/currencyconverter.png",
     tags: [
-      "React Js",
-      "React Hooks",
-      "API Integration",
-      "TailwindCSS",
-      "React Flow",
-      "Responsive Design"
+        "React Js",
+        "React Hooks",
+        "API Integration",
+        "TailwindCSS",
+        "React Flow",
+        "Responsive Design"
     ],
     category: "web app",
     github: "https://github.com/asmitpathi/CurrencyConverter",
@@ -385,47 +385,6 @@ export const projects = [
   },
   {
     id: 5,
-    title: "Rock-Paper-Scissors Game",
-    date: "Jan 2025 - June 2025",
-    description:
-      "A Rock-Paper-Scissors Game that allows users to play against the system in an interactive and engaging way. The game features a dynamic scorecard that keeps track of wins, losses, and draws. With a simple and intuitive UI built using HTML, CSS, and JavaScript, users can select their move, see the system's choice, and instantly receive feedback on who won the round or if it ended in a draw. The game provides a smooth and responsive experience, making it a fun and competitive way to test your luck and strategy!",
-    image:"/images/rockpaperscissors.png",
-    tags: [
-      "JS",
-      "HTML",
-      "CSS",
-      "DOM Manipulation",
-      "Event Listeners",
-      "Responsive Design",
-      "Randomization", 
-      "Game Logic"
-    ],
-    category: "web app",
-    github: "https://github.com/asmitpathi/RockPaperScissorsGame",
-    webapp: "https://rock-paper-scissors-game-site.vercel.app/",
-  },
-  {
-    id: 6,
-    title: "Tic-Tac-Toe Game",
-    date: "Jan 2025 - June 2025",
-    description:
-      "A Tic-Tac-Toe game that allows users to play against each other with a dynamic and interactive experience. Built using JavaScript, HTML, and CSS, the game features an intuitive UI and responsive design. Players can take turns marking their spots, and the system intelligently determines the winner or detects a draw. Once the game concludes, users have the option to start a new match instantly, ensuring endless fun and engagement.",
-    image:"/images/tictactoe.png",
-    tags: [
-      "JS",
-      "HTML",
-      "CSS",
-      "DOM Manipulation",
-      "Event Listeners",
-      "Responsive Design",
-      "Game Logic"
-    ],
-    category: "web app",
-    github: "https://github.com/asmitpathi/TicTacToeGame",
-    webapp: "https://tic-tac-toe-game-site.vercel.app/",
-  },
-  {
-    id: 7,
     title: "Portfolio",
     date: "Jan 2025 - June 2025",
     description:
@@ -445,7 +404,7 @@ export const projects = [
     webapp: "https://portfolio-website-site.vercel.app/",
   },
   {
-    id: 8,
+    id: 6,
     title: "UpSkill",
     date: "Jan 2025 - June 2025",
     description:
@@ -462,24 +421,7 @@ export const projects = [
     webapp: "https://up-skill-ten.vercel.app/",
   },
   {
-    id: 9,
-    title: "Amazon.com Frontend",
-    date: "Jan 2025 - June 2025",
-    description:
-      "An Amazon.com front-end clone built using JavaScript, HTML, and CSS, replicating the core UI and design of the e-commerce giant. This project features a responsive and visually appealing interface, including a dynamic homepage, product listings, and a shopping cart experience. Users can browse through various product categories and experience smooth navigation, closely mimicking the look and feel of the original Amazon website.",
-    image:"/images/amazonfrontend.png",
-    tags: [
-      "JS",
-      "HTML",
-      "CSS",
-      "Responsive Design"
-    ],
-    category: "web app",
-    github: "https://github.com/asmitpathi/AmazonWebsiteFrontend",
-    webapp: "https://amazon-website-frontend.vercel.app/",
-  },
-  {
-    id: 10,
+    id: 7,
     title: "WildGridWeb",
     date: "Jan 2025 - June 2025",
     description:
@@ -496,11 +438,66 @@ export const projects = [
     webapp: "https://wild-grid-web.vercel.app/",
   },
   {
+    id: 8,
+    title: "Rock-Paper-Scissors Game",
+    date: "Jan 2025 - June 2025",
+    description:
+      "A Rock-Paper-Scissors Game that allows users to play against the system in an interactive and engaging way. The game features a dynamic scorecard that keeps track of wins, losses, and draws. With a simple and intuitive UI built using HTML, CSS, and JavaScript, users can select their move, see the system's choice, and instantly receive feedback on who won the round or if it ended in a draw. The game provides a smooth experience, making it a fun and competitive way to test your luck and strategy!",
+    image:"/images/rockpaperscissors.png",
+    tags: [
+      "JS",
+      "HTML",
+      "CSS",
+      "DOM Manipulation",
+      "Event Listeners",
+      "Randomization", 
+      "Game Logic"
+    ],
+    category: "web app",
+    github: "https://github.com/asmitpathi/RockPaperScissorsGame",
+    webapp: "https://rock-paper-scissors-game-site.vercel.app/",
+  },
+  {
+    id: 9,
+    title: "Tic-Tac-Toe Game",
+    date: "Jan 2025 - June 2025",
+    description:
+      "A Tic-Tac-Toe game that allows users to play against each other with a dynamic and interactive experience. Built using JavaScript, HTML, and CSS, the game features an intuitive UI. Players can take turns marking their spots, and the system intelligently determines the winner or detects a draw. Once the game concludes, users have the option to start a new match instantly, ensuring endless fun and engagement.",
+    image:"/images/tictactoe.png",
+    tags: [
+      "JS",
+      "HTML",
+      "CSS",
+      "DOM Manipulation",
+      "Event Listeners",
+      "Game Logic"
+    ],
+    category: "web app",
+    github: "https://github.com/asmitpathi/TicTacToeGame",
+    webapp: "https://tic-tac-toe-game-site.vercel.app/",
+  },
+  {
+    id: 10,
+    title: "Amazon.com Frontend",
+    date: "Jan 2025 - June 2025",
+    description:
+      "An Amazon.com front-end clone built using JavaScript, HTML, and CSS, replicating the core UI and design of the e-commerce giant. This project features a visually appealing interface, including a dynamic homepage, product listings, and a shopping cart experience. Users can browse through various product categories and experience smooth navigation, closely mimicking the look and feel of the original Amazon website.",
+    image:"/images/amazonfrontend.png",
+    tags: [
+      "JS",
+      "HTML",
+      "CSS",
+    ],
+    category: "web app",
+    github: "https://github.com/asmitpathi/AmazonWebsiteFrontend",
+    webapp: "https://amazon-website-frontend.vercel.app/",
+  },
+  {
     id: 11,
     title: "BuddyBot",
     date: "October 2023",
     description:
-      "A **ChatBot and RuleBot** application that leverages **Python and NLP** to facilitate interactive conversations and rule-based decision-making. It provides a seamless and intelligent user experience by understanding natural language inputs, responding contextually, and executing predefined business rules efficiently. The ChatBot enables real-time engagement, while the RuleBot automates decision workflows, enhancing productivity and user satisfaction across various domains.",
+      "A ChatBot and RuleBot application that leverages Python and NLP to facilitate interactive conversations and rule-based decision-making. It provides a seamless and intelligent user experience by understanding natural language inputs, responding contextually, and executing predefined business rules efficiently. The ChatBot enables real-time engagement, while the RuleBot automates decision workflows, enhancing productivity and user satisfaction across various domains.",
     image:"data:image/jpeg;base64,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",
     tags: [
       "Python",
