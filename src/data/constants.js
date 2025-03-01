@@ -11,7 +11,7 @@ export const Bio = {
     "Computer Science student, with strong CS fundamentals and experience in Web Development, Artificial Intelligence, and Machine Learning. Passionate about leveraging technology to solve real-world challenges through innovation. Skilled in developing interactive web applications, AI-driven solutions, and automation systems.",
   github: "https://github.com/asmitpathi",
   resume:
-    "https://drive.google.com/file/d/15fd4eKJRxeIkUNFEOUlL3rGLLtPSVq2x/view?usp=sharing",
+    "https://drive.google.com/file/d/1Q4f9XYODWuvT8BGZWv7vrUE45C_J03Yl/view?usp=sharing",
   linkedin: "www.linkedin.com/in/asmitpathi",
 };
 
