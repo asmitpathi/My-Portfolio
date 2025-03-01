@@ -8,10 +8,10 @@ export const Bio = {
     "Programmer",
   ],
   description:
-    "Computer Science student specializing in AI and Robotics, with strong CS fundamentals and experience in Web Development, Artificial Intelligence, and Machine Learning. Passionate about leveraging technology to solve real-world challenges through innovation. Skilled in developing interactive web applications, AI-driven solutions, and automation systems.",
+    "Computer Science student, with strong CS fundamentals and experience in Web Development, Artificial Intelligence, and Machine Learning. Passionate about leveraging technology to solve real-world challenges through innovation. Skilled in developing interactive web applications, AI-driven solutions, and automation systems.",
   github: "https://github.com/asmitpathi",
   resume:
-    "https://drive.google.com/file/d/1DftTfo056RG9Z7HR_FaOcVyxgl35pWyC/view?usp=sharing",
+    "https://drive.google.com/file/d/15fd4eKJRxeIkUNFEOUlL3rGLLtPSVq2x/view?usp=sharing",
   linkedin: "www.linkedin.com/in/asmitpathi",
 };
 
@@ -381,7 +381,7 @@ export const projects = [
       
     ],
     category: "web app",
-    github: "https://github.com/asmitpathi/BgColorChanger",
+    github: "https://github.com/asmitpathi/BackgroundColorChanger",
     webapp: "https://bg-color-changer-site.vercel.app/",
   },
   {
@@ -495,7 +495,7 @@ export const projects = [
   },
   {
     id: 11,
-    title: "BuddyBot",
+    title: "ChatBot",
     date: "October 2023",
     description:
       "A ChatBot using NLP for intelligent conversations.",
