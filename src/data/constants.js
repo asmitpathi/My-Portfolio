@@ -12,7 +12,7 @@ export const Bio = {
     "Computer Science student, with strong CS fundamentals and experience in Web Development, Artificial Intelligence, and Machine Learning. Passionate about leveraging technology to solve real-world challenges through innovation. Skilled in developing interactive web applications, AI-driven solutions, and automation systems.",
   github: "https://github.com/asmitpathi",
   resume:
-    "https://drive.google.com/file/d/1Q4f9XYODWuvT8BGZWv7vrUE45C_J03Yl/view?usp=sharing",
+    "https://drive.google.com/file/d/10EnqLJNj4OUFId9yEOfXg78Lemx9-mi5/view?usp=sharing",
   linkedin: "www.linkedin.com/in/asmitpathi",
 };
 
@@ -347,6 +347,26 @@ export const projects = [
   },
   {
     id: 3,
+    title: "TaskNest",
+    date: "Jan 2025 - June 2025",
+    description:
+      "A ReactJS-based to-do list application with local storage support, real-time task management, and a modern UI.",
+    image:"/images/tasknest.png",
+    tags: [
+      "React Js",
+      "TailwindCSS",
+      "React Flow",
+      "Local Storage", 
+      "Storage Management",
+      "Responsive Design",
+      "User Input Handling"
+    ],
+    category: "web app",
+    github: "https://github.com/asmitpathi/TaskNest",
+    webapp: "https://task-nest-site.vercel.app/",
+  },
+  {
+    id: 4,
     title: "Password Generator",
     date: "Jan 2025 - June 2025",
     description:
@@ -366,7 +386,7 @@ export const projects = [
     webapp: "https://password-generator-webpage.vercel.app/",
   },
   {
-    id: 4,
+    id: 5,
     title: "Background Color Changer",
     date: "Jan 2025 - June 2025",
     description:
@@ -386,7 +406,7 @@ export const projects = [
     webapp: "https://bg-color-changer-site.vercel.app/",
   },
   {
-    id: 5,
+    id: 6,
     title: "Portfolio",
     date: "Jan 2025 - June 2025",
     description:
@@ -406,7 +426,7 @@ export const projects = [
     webapp: "https://portfolio-website-site.vercel.app/",
   },
   {
-    id: 6,
+    id: 7,
     title: "UpSkill",
     date: "Jan 2025 - June 2025",
     description:
@@ -423,7 +443,7 @@ export const projects = [
     webapp: "https://up-skill-ten.vercel.app/",
   },
   {
-    id: 7,
+    id: 8,
     title: "WildGridWeb",
     date: "Jan 2025 - June 2025",
     description:
@@ -440,7 +460,7 @@ export const projects = [
     webapp: "https://wild-grid-web.vercel.app/",
   },
   {
-    id: 8,
+    id: 9,
     title: "Rock-Paper-Scissors Game",
     date: "Jan 2025 - June 2025",
     description:
@@ -460,7 +480,7 @@ export const projects = [
     webapp: "https://rock-paper-scissors-game-site.vercel.app/",
   },
   {
-    id: 9,
+    id: 10,
     title: "Tic-Tac-Toe Game",
     date: "Jan 2025 - June 2025",
     description:
@@ -479,7 +499,7 @@ export const projects = [
     webapp: "https://tic-tac-toe-game-site.vercel.app/",
   },
   {
-    id: 10,
+    id: 11,
     title: "Amazon.com Frontend",
     date: "Jan 2025 - June 2025",
     description:
@@ -495,7 +515,7 @@ export const projects = [
     webapp: "https://amazon-website-frontend.vercel.app/",
   },
   {
-    id: 11,
+    id: 12,
     title: "ChatBot",
     date: "October 2023",
     description:
@@ -513,7 +533,7 @@ export const projects = [
     webapp: "",
   },
   {
-    id: 12,
+    id: 13,
     title: "Smart-CreditCard-Fraud-Detection",
     date: "Jan 2025 - June 2025",
     description:
@@ -530,7 +550,7 @@ export const projects = [
     webapp: "",
   },
   {
-    id: 13,
+    id: 14,
     title: "MopBot",
     date: "June 2022 - Dec 2022",
     description:
@@ -557,7 +577,7 @@ export const projects = [
     ],
   },
   {
-    id: 14,
+    id: 15,
     title: "RosBot",
     date: "Jan 2024 - May 2024",
     description:
