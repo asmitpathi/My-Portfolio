@@ -367,6 +367,25 @@ export const projects = [
   },
   {
     id: 4,
+    title: "TickTask",
+    date: "Jan 2025 - June 2025",
+    description:
+      "A simple ReactJS-based to-do list application with real-time task management, and a modern UI.",
+    image:"/images/ticktask.png",
+    tags: [
+      "React Js",
+      "TailwindCSS",
+      "React Flow",
+      "React-Redux",,
+      "Responsive Design",
+      "User Input Handling"
+    ],
+    category: "web app",
+    github: "https://github.com/asmitpathi/TickTask",
+    webapp: "https://tick-task-site.vercel.app/",
+  },
+  {
+    id: 5,
     title: "Password Generator",
     date: "Jan 2025 - June 2025",
     description:
@@ -386,7 +405,7 @@ export const projects = [
     webapp: "https://password-generator-webpage.vercel.app/",
   },
   {
-    id: 5,
+    id: 6,
     title: "Background Color Changer",
     date: "Jan 2025 - June 2025",
     description:
@@ -406,7 +425,7 @@ export const projects = [
     webapp: "https://bg-color-changer-site.vercel.app/",
   },
   {
-    id: 6,
+    id: 7,
     title: "Portfolio",
     date: "Jan 2025 - June 2025",
     description:
@@ -426,7 +445,7 @@ export const projects = [
     webapp: "https://portfolio-website-site.vercel.app/",
   },
   {
-    id: 7,
+    id: 8,
     title: "UpSkill",
     date: "Jan 2025 - June 2025",
     description:
@@ -443,7 +462,7 @@ export const projects = [
     webapp: "https://up-skill-ten.vercel.app/",
   },
   {
-    id: 8,
+    id: 9,
     title: "WildGridWeb",
     date: "Jan 2025 - June 2025",
     description:
@@ -460,7 +479,7 @@ export const projects = [
     webapp: "https://wild-grid-web.vercel.app/",
   },
   {
-    id: 9,
+    id: 10,
     title: "Rock-Paper-Scissors Game",
     date: "Jan 2025 - June 2025",
     description:
@@ -480,7 +499,7 @@ export const projects = [
     webapp: "https://rock-paper-scissors-game-site.vercel.app/",
   },
   {
-    id: 10,
+    id: 11,
     title: "Tic-Tac-Toe Game",
     date: "Jan 2025 - June 2025",
     description:
@@ -499,7 +518,7 @@ export const projects = [
     webapp: "https://tic-tac-toe-game-site.vercel.app/",
   },
   {
-    id: 11,
+    id: 12,
     title: "Amazon.com Frontend",
     date: "Jan 2025 - June 2025",
     description:
@@ -515,7 +534,7 @@ export const projects = [
     webapp: "https://amazon-website-frontend.vercel.app/",
   },
   {
-    id: 12,
+    id: 13,
     title: "ChatBot",
     date: "October 2023",
     description:
@@ -533,7 +552,7 @@ export const projects = [
     webapp: "",
   },
   {
-    id: 13,
+    id: 14,
     title: "Smart-CreditCard-Fraud-Detection",
     date: "Jan 2025 - June 2025",
     description:
@@ -550,7 +569,7 @@ export const projects = [
     webapp: "",
   },
   {
-    id: 14,
+    id: 15,
     title: "MopBot",
     date: "June 2022 - Dec 2022",
     description:
@@ -577,7 +596,7 @@ export const projects = [
     ],
   },
   {
-    id: 15,
+    id: 16,
     title: "RosBot",
     date: "Jan 2024 - May 2024",
     description:
