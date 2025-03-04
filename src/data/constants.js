@@ -264,8 +264,8 @@ export const education = [
     school: "Vellore Institute of Technology, Chennai",
     date: "Sept 2021 - May 2025",
     grade: "8.74 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Vellore Institute of Technology, Chennai. I have completed 4 semesters and have a CGPA of 8.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
-    degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
+    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Vellore Institute of Technology, Chennai. I have completed 7 semesters and have a CGPA of 8.74. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
+    degree: "Bachelor of Technology, Computer Science and Engineering with specialization in AI & Robotics",
   },
   {
     id: 1,
