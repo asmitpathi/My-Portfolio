@@ -290,6 +290,29 @@ export const education = [
 export const projects = [
   {
     id: 0,
+    title: "BlogHorizon",
+    date: "Jan 2025 - June 2025",
+    description:
+      "A ReactJS-based blogging platform with user authentication, rich text editing, and seamless post rendering.",
+    image:"/images/blogHorizon.png",
+    tags: [
+      "React Js",
+      "Appwrite",
+      "TinyMCE",
+      "React Hooks",
+      "React Hook Form",
+      "HTML React-Parser",
+      "React Router Library",
+      "TailwindCSS",
+      "React Flow",
+      "Responsive Design"
+    ],
+    category: "web app",
+    github: "https://github.com/asmitpathi/blogHorizon",
+    webapp: "https://bloghorizon-site.vercel.app/",
+  },
+  {
+    id: 1,
     title: "ShutterVibe",
     date: "Jan 2025 - June 2025",
     description:
@@ -308,7 +331,7 @@ export const projects = [
     webapp: "https://shutter-vibe-site.vercel.app/",
   },
   {
-    id: 1,
+    id: 2,
     title: "Currency Converter",
     date: "Jan 2025 - June 2025",
     description:
@@ -327,7 +350,7 @@ export const projects = [
     webapp: "https://currency-converter-page.vercel.app/",
   },
   {
-    id: 2,
+    id: 3,
     title: "Profile Login",
     date: "Jan 2025 - June 2025",
     description:
@@ -346,7 +369,7 @@ export const projects = [
     webapp: "https://profile-login-page.vercel.app/",
   },
   {
-    id: 3,
+    id: 4,
     title: "TaskNest",
     date: "Jan 2025 - June 2025",
     description:
@@ -366,7 +389,7 @@ export const projects = [
     webapp: "https://task-nest-site.vercel.app/",
   },
   {
-    id: 4,
+    id: 5,
     title: "TickTask",
     date: "Jan 2025 - June 2025",
     description:
@@ -385,7 +408,7 @@ export const projects = [
     webapp: "https://tick-task-site.vercel.app/",
   },
   {
-    id: 5,
+    id: 6,
     title: "Password Generator",
     date: "Jan 2025 - June 2025",
     description:
@@ -405,7 +428,7 @@ export const projects = [
     webapp: "https://password-generator-webpage.vercel.app/",
   },
   {
-    id: 6,
+    id: 7,
     title: "Background Color Changer",
     date: "Jan 2025 - June 2025",
     description:
@@ -425,7 +448,7 @@ export const projects = [
     webapp: "https://bg-color-changer-site.vercel.app/",
   },
   {
-    id: 7,
+    id: 8,
     title: "Portfolio",
     date: "Jan 2025 - June 2025",
     description:
@@ -445,7 +468,7 @@ export const projects = [
     webapp: "https://portfolio-website-site.vercel.app/",
   },
   {
-    id: 8,
+    id: 9,
     title: "UpSkill",
     date: "Jan 2025 - June 2025",
     description:
@@ -462,7 +485,7 @@ export const projects = [
     webapp: "https://up-skill-ten.vercel.app/",
   },
   {
-    id: 9,
+    id: 10,
     title: "WildGridWeb",
     date: "Jan 2025 - June 2025",
     description:
@@ -479,7 +502,7 @@ export const projects = [
     webapp: "https://wild-grid-web.vercel.app/",
   },
   {
-    id: 10,
+    id: 11,
     title: "Rock-Paper-Scissors Game",
     date: "Jan 2025 - June 2025",
     description:
@@ -499,7 +522,7 @@ export const projects = [
     webapp: "https://rock-paper-scissors-game-site.vercel.app/",
   },
   {
-    id: 11,
+    id: 12,
     title: "Tic-Tac-Toe Game",
     date: "Jan 2025 - June 2025",
     description:
@@ -518,7 +541,7 @@ export const projects = [
     webapp: "https://tic-tac-toe-game-site.vercel.app/",
   },
   {
-    id: 12,
+    id: 13,
     title: "Amazon.com Frontend",
     date: "Jan 2025 - June 2025",
     description:
@@ -534,7 +557,7 @@ export const projects = [
     webapp: "https://amazon-website-frontend.vercel.app/",
   },
   {
-    id: 13,
+    id: 14,
     title: "ChatBot",
     date: "October 2023",
     description:
@@ -552,7 +575,7 @@ export const projects = [
     webapp: "",
   },
   {
-    id: 14,
+    id: 15,
     title: "Smart-CreditCard-Fraud-Detection",
     date: "Jan 2025 - June 2025",
     description:
@@ -569,7 +592,7 @@ export const projects = [
     webapp: "",
   },
   {
-    id: 15,
+    id: 16,
     title: "MopBot",
     date: "June 2022 - Dec 2022",
     description:
@@ -596,7 +619,7 @@ export const projects = [
     ],
   },
   {
-    id: 16,
+    id: 17,
     title: "RosBot",
     date: "Jan 2024 - May 2024",
     description:
