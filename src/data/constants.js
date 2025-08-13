@@ -1,18 +1,17 @@
 export const Bio = {
   name: "Asmit Pathi",
   roles: [
-    "CS Student",
-    "Software Developer",
+    "Software Engineer",
     "Full Stack Developer",
     "Python Developer",
     "AI/ML Engineer",
     "Programmer",
   ],
   description:
-    "Computer Science student, with strong CS fundamentals and experience in Web Development, Artificial Intelligence, and Machine Learning. Passionate about leveraging technology to solve real-world challenges through innovation. Skilled in developing interactive web applications, AI-driven solutions, and automation systems.",
+    "Software Engineer with hands-on experience in Web Development, AI, and Machine Learning. Skilled in building scalable full-stack applications and intelligent automation tools. Fast learner with a strong ability to collaborate and adapt to new technologies.",
   github: "https://github.com/asmitpathi",
   resume:
-    "https://drive.google.com/file/d/1kFU1Tu1IkVG9Vedo2s5gkryD4yth8cfE/view?usp=sharing",
+    "https://drive.google.com/file/d/1udPpgL3n_io6zt3_kdiCmttU81IADwz4/view?usp=sharing",
   linkedin: "www.linkedin.com/in/asmitpathi",
 };
 
