@@ -221,7 +221,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://media.licdn.com/dms/image/v2/C4E0BAQEQOYWqVPLVmg/company-logo_200_200/company-logo_200_200/0/1630625150609/orimark_technologies_pvt_ltd_logo?e=1748476800&v=beta&t=mx4deHI66T57G2XIxfaf-waszqQwTFlbGooOZxWp1kY",
+    img: "https://media.licdn.com/dms/image/v2/C4E0BAQEQOYWqVPLVmg/company-logo_200_200/company-logo_200_200/0/1630625150609/orimark_technologies_pvt_ltd_logo?e=1758153600&v=beta&t=V6b_JFKtjYcQOPdvQTquTA39vkacHx9NA5pfjgtH2A0",
     role: "Machine Learning Intern",
     company: "Orimark Technologies Pvt. Ltd.",
     date: "Oct 2023",
@@ -238,7 +238,7 @@ export const experiences = [
   },
   {
     id: 2,
-    img: "https://media.licdn.com/dms/image/v2/C560BAQEmrNQFv_wEFA/company-logo_200_200/company-logo_200_200/0/1630664931660/digital_india_add_logo?e=1748476800&v=beta&t=w-BsnQA_6NZcNC93OsgQWtsJwPBcDatD28knMPdyWms",
+    img: "https://media.licdn.com/dms/image/v2/C560BAQEmrNQFv_wEFA/company-logo_200_200/company-logo_200_200/0/1630664931660/digital_india_add_logo?e=1758153600&v=beta&t=UHgm0yoXMfkT_6BpvFPBQ-nplIxK8PDwayJkb8q9rP0",
     role: "Python Developer Intern",
     company: "Digital India Add Pvt. Ltd.",
     date: "Sept 2023",
@@ -259,7 +259,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/v2/D560BAQH0u0StCXmEkg/company-logo_200_200/company-logo_200_200/0/1732705890200/vellore_institute_of_technology_logo?e=1748476800&v=beta&t=ND-Qlr-29TAYHP8ZP2yzfrbLjPkVCwDkMXL2SXrtoz0",
+    img: "https://media.licdn.com/dms/image/v2/D560BAQH0u0StCXmEkg/company-logo_200_200/company-logo_200_200/0/1732705890200/vellore_institute_of_technology_logo?e=1758153600&v=beta&t=g4LD2ZT-r94kApy3tNTxo6zLP0bFPZhW3tjqTrhxKeM",
     school: "Vellore Institute of Technology, Chennai",
     date: "Sept 2021 - May 2025",
     grade: "8.74 CGPA",
