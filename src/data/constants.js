@@ -202,7 +202,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/v2/C560BAQEG8YhHm-QMyg/company-logo_200_200/company-logo_200_200/0/1630631850036/revonext_soft_logo?e=1748476800&v=beta&t=L-W8lOS-PuLghRLaETFyV_KoDMWtaGbeBleSUlV-xmU",
+    img: "https://media.licdn.com/dms/image/v2/C560BAQEG8YhHm-QMyg/company-logo_200_200/company-logo_200_200/0/1630631850036/revonext_soft_logo?e=1758153600&v=beta&t=UVzi2JPOdy89GMcQHxt-EcF95KmzxDU4TwT3Xi29hEs",
     role: "Full Stack Developer Intern ",
     company: "Revonextsoft Technologies Pvt. Ltd. ",
     date: "Jan 2025 - Present",
