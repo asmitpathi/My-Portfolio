@@ -10,7 +10,6 @@ import {
   headContentAnimation,
   headTextAnimation,
 } from "../../utils/motion";
-//import StarCanvas from "../canvas/Stars";
 
 const HeroContainer = styled.div`
   display: flex;
