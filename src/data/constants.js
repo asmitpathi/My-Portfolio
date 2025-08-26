@@ -3,15 +3,16 @@ export const Bio = {
   roles: [
     "Software Engineer",
     "Full Stack Developer",
-    "Python Developer",
     "AI/ML Engineer",
+    "Python Developer",
+    "Java Developer",
     "Programmer",
   ],
   description:
     "Software Engineer with hands-on experience in Web Development, AI, and Machine Learning. Skilled in building scalable full-stack applications and intelligent automation tools. Fast learner with a strong ability to collaborate and adapt to new technologies.",
   github: "https://github.com/asmitpathi",
   resume:
-    "https://drive.google.com/file/d/1udPpgL3n_io6zt3_kdiCmttU81IADwz4/view?usp=sharing",
+    "https://drive.google.com/file/d/1ChupkILPQgluv-jTXNeUGVn-ox7zG7_e/view?usp=sharing",
   linkedin: "www.linkedin.com/in/asmitpathi",
 };
 
@@ -262,7 +263,7 @@ export const education = [
     img: "https://media.licdn.com/dms/image/v2/D560BAQH0u0StCXmEkg/company-logo_200_200/company-logo_200_200/0/1732705890200/vellore_institute_of_technology_logo?e=1758153600&v=beta&t=g4LD2ZT-r94kApy3tNTxo6zLP0bFPZhW3tjqTrhxKeM",
     school: "Vellore Institute of Technology, Chennai",
     date: "Sept 2021 - May 2025",
-    grade: "8.74 CGPA",
+    grade: "8.75 CGPA",
     desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Vellore Institute of Technology, Chennai. I have completed 7 semesters and have a CGPA of 8.74. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
     degree: "Bachelor of Technology, Computer Science and Engineering with specialization in AI & Robotics",
   },
