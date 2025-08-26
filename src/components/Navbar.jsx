@@ -91,6 +91,8 @@ const GithubButton = styled.a`
   font-weight: 500;
   transition: all 0.6s ease-in-out;
   text-decoration: none;
+  white-space: nowrap;
+  min-width: 140px; 
   &:hover {
     background: ${({ theme }) => theme.primary};
     color: ${({ theme }) => theme.text_primary};
@@ -110,6 +112,8 @@ const LinkedinButton = styled.a`
   font-weight: 500;
   transition: all 0.6s ease-in-out;
   text-decoration: none;
+  white-space: nowrap;
+  min-width: 140px; 
   &:hover {
     background: ${({ theme }) => theme.primary};
     color: ${({ theme }) => theme.text_primary};
