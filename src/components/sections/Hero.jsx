@@ -219,7 +219,7 @@ const Hero = () => {
     <div id="About">
       <HeroContainer>
         <HeroBg>
-          <StarCanvas />
+          
           <HeroBgAnimation />
         </HeroBg>
 
