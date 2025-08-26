@@ -92,6 +92,25 @@ const GithubButton = styled.a`
   }
 `;
 
+const LinkedinButton = styled.a`
+  border: 1px solid ${({ theme }) => theme.primary};
+  color: ${({ theme }) => theme.primary};
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  border-radius: 20px;
+  cursor: pointer;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: 500;
+  transition: all 0.6s ease-in-out;
+  text-decoration: none;
+  &:hover {
+    background: ${({ theme }) => theme.primary};
+    color: ${({ theme }) => theme.text_primary};
+  }
+`;
+
 const MobileIcon = styled.div`
   height: 100%;
   display: flex;
@@ -178,6 +197,16 @@ const Navbar = () => {
             >
               Github Profile
             </GithubButton>
+            <LinkedinButton
+              href={Bio.linkedin}
+              target="_Blank"
+              style={{
+                background: theme.primary,
+                color: theme.text_primary,
+              }}
+            >
+              LinkedIn Profile
+            </LinkedinButton>
           </MobileMenu>
         )}
 
@@ -185,6 +214,9 @@ const Navbar = () => {
           <GithubButton href={Bio.github} target="_Blank">
             Github Profile
           </GithubButton>
+          <LinkedinButton href={Bio.linkedin} target="_Blank">
+            LinkedIn Profile
+          </LinkedinButton>
         </ButtonContainer>
       </NavbarContainer>
     </Nav>
