@@ -4,7 +4,6 @@ import "react-vertical-timeline-component/style.min.css";
 import styled from "styled-components";
 import { education } from "../../data/constants";
 import EducationCard from "../cards/EducationCard";
-//import EarthCanvas from "../canvas/Earth";
 
 const Container = styled.div`
   display: flex;
@@ -59,8 +58,7 @@ const Education = () => {
             marginBottom: "40px",
           }}
         >
-          My education has been a journey of self-discovery and growth. My
-          educational details are as follows.
+          My education has been a journey of growth and self-discovery. Here is an overview of my academic path.
         </Desc>
 
         <VerticalTimeline>
