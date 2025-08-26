@@ -29,6 +29,7 @@ const NavbarContainer = styled.div`
 `;
 const NavLogo = styled(LinkR)`
   width: 80%;
+  height: 100%;
   padding: 0 6px;
   font-weight: 500;
   font-size: 18px;
@@ -39,6 +40,7 @@ const NavLogo = styled(LinkR)`
 /*screen and (max-width: 600px) means this rule applies only to screens (not printers, speech readers, etc.).*/
 const NavItems = styled.ul`
   width: 100%;
+  height: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
