@@ -89,11 +89,6 @@ const Footer = () => {
           <NavLink href="#Projects">Projects</NavLink>
           <NavLink href="#Education">Education</NavLink>
         </Nav>
-        <SocialMediaIcons>
-          <SocialMediaIcon href={Bio.linkedin} target="display">
-            <LinkedIn />
-          </SocialMediaIcon>
-        </SocialMediaIcons>
         <Copyright>&copy; 2025 Asmit Pathi. Made With Passion.</Copyright>
       </FooterWrapper>
     </FooterContainer>
