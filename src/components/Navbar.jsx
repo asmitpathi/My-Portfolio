@@ -87,7 +87,7 @@ const GithubButton = styled.a`
   border-radius: 12px;
   cursor: pointer;
   padding: 8px 16px;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 500;
   transition: all 0.6s ease-in-out;
   text-decoration: none;
@@ -106,7 +106,7 @@ const LinkedinButton = styled.a`
   border-radius: 12px;
   cursor: pointer;
   padding: 8px 16px;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 500;
   transition: all 0.6s ease-in-out;
   text-decoration: none;
