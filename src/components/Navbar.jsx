@@ -25,6 +25,7 @@ const NavbarContainer = styled.div`
   align-items: center;
   justify-content: space-between;
   font-size: 1rem;
+  gap: 32px;
 `;
 const NavLogo = styled(LinkR)`
   width: 80%;
@@ -41,8 +42,9 @@ const NavItems = styled.ul`
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 32px;
+  gap: 28px;
   padding: 0 6px;
+  margin: 0;
   list-style: none;
 
   @media screen and (max-width: 768px) {    
@@ -68,6 +70,7 @@ const ButtonContainer = styled.div`
   justify-content: end;
   align-items: center;
   padding: 0 6px;
+  gap: 16px;
   @media screen and (max-width: 768px) {
     display: none;
   }
@@ -79,10 +82,10 @@ const GithubButton = styled.a`
   justify-content: center;
   display: flex;
   align-items: center;
-  border-radius: 20px;
+  border-radius: 12px;
   cursor: pointer;
-  padding: 10px 20px;
-  font-size: 16px;
+  padding: 8px 16px;
+  font-size: 14px;
   font-weight: 500;
   transition: all 0.6s ease-in-out;
   text-decoration: none;
@@ -98,10 +101,10 @@ const LinkedinButton = styled.a`
   justify-content: center;
   display: flex;
   align-items: center;
-  border-radius: 20px;
+  border-radius: 12px;
   cursor: pointer;
-  padding: 10px 20px;
-  font-size: 16px;
+  padding: 8px 16px;
+  font-size: 14px;
   font-weight: 500;
   transition: all 0.6s ease-in-out;
   text-decoration: none;

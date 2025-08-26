@@ -13,7 +13,7 @@ export const Bio = {
   github: "https://github.com/asmitpathi",
   resume:
     "https://drive.google.com/file/d/1ChupkILPQgluv-jTXNeUGVn-ox7zG7_e/view?usp=sharing",
-  linkedin: "www.linkedin.com/in/asmitpathi",
+  linkedin: "https://www.linkedin.com/in/asmitpathi/",
 };
 
 export const skills = [
