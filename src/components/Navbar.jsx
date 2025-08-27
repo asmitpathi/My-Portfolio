@@ -204,7 +204,7 @@ const Navbar = () => {
                 color: theme.text_primary,
               }}
             >
-              Github Profile
+              Github
             </GithubButton>
             <LinkedinButton
               href={Bio.linkedin}
@@ -214,7 +214,7 @@ const Navbar = () => {
                 color: theme.text_primary,
               }}
             >
-              LinkedIn Profile
+              LinkedIn
             </LinkedinButton>
           </MobileMenu>
         )}
