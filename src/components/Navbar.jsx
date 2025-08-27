@@ -221,10 +221,10 @@ const Navbar = () => {
 
         <ButtonContainer>
           <GithubButton href={Bio.github} target="_Blank">
-            Github Profile
+            Github
           </GithubButton>
           <LinkedinButton href={Bio.linkedin} target="_Blank">
-            LinkedIn Profile
+            LinkedIn
           </LinkedinButton>
         </ButtonContainer>
       </NavbarContainer>
