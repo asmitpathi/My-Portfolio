@@ -622,10 +622,10 @@ export const projects = [
   },
   {
     id: 15,
-    title: "ChatBot",
+    title: "BuddyBot",
     date: "Sept 2023",
     description:
-      "A ChatBot using NLP for intelligent conversations.",
+      "A conversational AI that uses NLP and TF-IDF to answer queries from text data, greet users, and learn dynamically through similarity-based responses.",
     image:"/images/chatbot.jpg",
     tags: [
       "Python",
@@ -635,11 +635,29 @@ export const projects = [
       "Text Processing",
     ],
     category: "ai ml",
-    github: "https://github.com/asmitpathi/ChatBot",
-    webapp: "",
+    github: "https://github.com/asmitpathi/BuddyBot-Project",
+    webapp: "https://github.com/asmitpathi/BuddyBot-Project",
   },
   {
     id: 16,
+    title: "RuleBot",
+    date: "Sept 2023",
+    description:
+      "A Python-based rule-driven chatbot that simulates an alien learning about Earth using regex-based intent recognition and dynamic, predefined responses.",
+    image:"/images/rulebot.png",
+    tags: [
+      "Python",
+      "NLP",
+      "AI",
+      "ML",
+      "Text Processing",
+    ],
+    category: "ai ml",
+    github: "https://github.com/asmitpathi/RuleBot-Project",
+    webapp: "https://github.com/asmitpathi/RuleBot-Project",
+  },
+  {
+    id: 17,
     title: "Smart-CreditCard-Fraud-Detection",
     date: "Oct 2023",
     description:
@@ -652,11 +670,11 @@ export const projects = [
       "Responsive Design"
     ],
     category: "ai ml",
-    github: "https://github.com/asmitpathi/SmartCreditCardFraudDetection",
-    webapp: "",
+    github: "https://github.com/asmitpathi/Smart-Credit-Card-Fraud-Detection-Project",
+    webapp: "https://github.com/asmitpathi/Smart-Credit-Card-Fraud-Detection-Project",
   },
   {
-    id: 17,
+    id: 18,
     title: "MopBot",
     date: "June 2022 - Dec 2022",
     description:
@@ -683,7 +701,7 @@ export const projects = [
     ],
   },
   {
-    id: 18,
+    id: 19,
     title: "RosBot",
     date: "Jan 2024 - May 2024",
     description:
