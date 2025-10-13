@@ -278,7 +278,7 @@ export const projects = [
     date: "Sept 2024 - Dec 2024",
     description:
       "A backend system providing secure authentication, role-based access, media storage, and scalable REST APIs for social media functionality.",
-    image: "/images/twitTube.png",
+    image: "/images/TwitTube.png",
     tags: [
       "Node.js",
       "Express",
