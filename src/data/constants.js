@@ -195,11 +195,12 @@ export const experiences = [
     skills: [
       "React",
       "Redux",
-      "NodeJs",
-      "Material UI",
-      "HTML",
-      "CSS",
+      "Node.js",
+      "Express",
+      "MongoDB",
       "JavaScript",
+      "HTML",
+      "CSS",,
       "TailwindCSS"
     ],
     doc: "",
