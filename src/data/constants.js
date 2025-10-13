@@ -622,6 +622,23 @@ export const projects = [
   },
   {
     id: 15,
+    title: "Smart-CreditCard-Fraud-Detection",
+    date: "Oct 2023",
+    description:
+      "A fraud detection model using logistic regression and undersampling techniques.",
+    image:"/images/creditcardproject.jpg",
+    tags: [
+      "JS",
+      "HTML",
+      "CSS",
+      "Responsive Design"
+    ],
+    category: "ai ml",
+    github: "https://github.com/asmitpathi/Smart-Credit-Card-Fraud-Detection-Project",
+    webapp: "https://github.com/asmitpathi/Smart-Credit-Card-Fraud-Detection-Project",
+  },
+  {
+    id: 16,
     title: "BuddyBot",
     date: "Sept 2023",
     description:
@@ -639,7 +656,7 @@ export const projects = [
     webapp: "https://github.com/asmitpathi/BuddyBot-Project",
   },
   {
-    id: 16,
+    id: 17,
     title: "RuleBot",
     date: "Sept 2023",
     description:
@@ -655,23 +672,6 @@ export const projects = [
     category: "ai ml",
     github: "https://github.com/asmitpathi/RuleBot-Project",
     webapp: "https://github.com/asmitpathi/RuleBot-Project",
-  },
-  {
-    id: 17,
-    title: "Smart-CreditCard-Fraud-Detection",
-    date: "Oct 2023",
-    description:
-      "A fraud detection model using logistic regression and undersampling techniques.",
-    image:"/images/creditcardproject.jpg",
-    tags: [
-      "JS",
-      "HTML",
-      "CSS",
-      "Responsive Design"
-    ],
-    category: "ai ml",
-    github: "https://github.com/asmitpathi/Smart-Credit-Card-Fraud-Detection-Project",
-    webapp: "https://github.com/asmitpathi/Smart-Credit-Card-Fraud-Detection-Project",
   },
   {
     id: 18,
