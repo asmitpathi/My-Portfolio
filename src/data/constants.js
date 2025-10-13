@@ -223,7 +223,7 @@ export const experiences = [
   },
   {
     id: 2,
-    img: "/images/digitalindiaadd",
+    img: "/images/digitalindiaadd.jpg",
     role: "Python Developer Intern",
     company: "Digital India Add Pvt. Ltd.",
     date: "Sept 2023",
