@@ -103,6 +103,11 @@ export const skills = [
         image:
           "/images/express.png",
       },
+      {
+        name: "REST APIs",
+        image:
+          "/images/restapi.png",
+      },
     ],
   },
   {
@@ -123,6 +128,21 @@ export const skills = [
         image:
           "/images/mongodb.svg",
       },
+    ],
+  },
+  {
+    title: "Tools & Technologies",
+    skills: [
+      {
+        name: "Git",
+        image:
+          "/images/git.png",
+      },
+      {
+        name: "GitHub",
+        image:
+          "/images/github.png",
+      },
       {
         name: "Linux",
         image:
@@ -134,15 +154,50 @@ export const skills = [
           "/images/yaml.png",
       },
       {
-        name: "Git",
+        name: "Multer",
         image:
-          "/images/git.png",
+          "/images/multer.png",
       },
       {
-        name: "GitHub",
+        name: "Cloudinary",
         image:
-          "/images/github.png",
-      }
+          "/images/cloudinary.png",
+      },
+      {
+        name: "Postman",
+        image:
+          "/images/postman.svg",
+      },
+      {
+        name: "JWT",
+        image:
+          "/images/jwt.webp",
+      },
+    ],
+  },
+  {
+    title: "Soft Skills",
+    skills: [
+      {
+        name: "Communication",
+        image:
+          "/images/communication.png",
+      },
+      {
+        name: "Adaptability",
+        image:
+          "/images/adaptability.jpg",
+      },
+      {
+        name: "Problem Solving",
+        image:
+          "/images/problemsolving.jpg",
+      },
+      {
+        name: "Teamwork",
+        image:
+          "/images/teamwork.png",
+      },
     ],
   },
   // {
