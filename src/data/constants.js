@@ -304,7 +304,7 @@ export const education = [
     school: "Vellore Institute of Technology, Chennai",
     date: "Sept 2021 - May 2025",
     grade: "8.75 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Vellore Institute of Technology, Chennai. I have completed 7 semesters and have a CGPA of 8.74. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
+    desc: "Completed my Bachelor of Technology in Computer Science with a specialization in AI and Robotics at Vellore Institute of Technology, Chennai, with a CGPA of 8.75. My coursework has provided me with a strong foundation in Data Structures and Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. In addition to my academics, I have gained practical experience in web development, AI, and machine learning, which has strengthened my technical expertise, problem-solving skills, and ability to work on scalable solutions.",
     degree: "Bachelor of Technology, Computer Science and Engineering with specialization in AI & Robotics",
   },
   {
@@ -313,7 +313,7 @@ export const education = [
     school: "FIITJEE, Bhubaneswar",
     date: "Apr 2018 - Apr 2020",
     grade: "83.17%",
-    desc: "I completed my class 12 high school education at FIITJEE, Bhubaneswar, where I studied Science.",
+    desc: "Completed my Class 12 education in Science at FIITJEE, Bhubaneswar, with a strong academic foundation in Physics, Chemistry, and Mathematics.",
     degree: "CHSE(XII), Science",
   },
   {
@@ -322,7 +322,7 @@ export const education = [
     school: "BJEM, Bhubaneswar",
     date: "Apr 2006 - Apr 2017",
     grade: "83.33%",
-    desc: "I completed my class 10 education at BJEM, Bhubaneswar, where I studied Science with Computer.",
+    desc: "Completed my Class 10 education at BJEM School, Bhubaneswar, with a focus on Science and Computer Studies.",
     degree: "CBSE(X), Science with Computer",
   },
 ];
