@@ -3,13 +3,13 @@ export const Bio = {
   roles: [
     "Software Engineer",
     "Full Stack Developer",
-    "AI/ML Engineer",
+    //"AI/ML Engineer",
     "Python Developer",
     "Java Developer",
     "Programmer",
   ],
   description:
-    "Software Engineer with hands-on experience in Web Development, AI, and Machine Learning. Skilled in building scalable full-stack applications and intelligent automation tools. Fast learner with a strong ability to collaborate and adapt to new technologies.",
+    "Software Engineer with hands-on experience in full-stack development, building reliable web applications, and solving real-world problems using modern frameworks and clean code practices.",
   github: "https://github.com/asmitpathi",
   resume:
     "https://drive.google.com/file/d/1ChupkILPQgluv-jTXNeUGVn-ox7zG7_e/view?usp=sharing",
@@ -31,7 +31,7 @@ export const skills = [
           "/images/python.svg",
       },
       {
-        name: "Data Structures & Algorithms",
+        name: "Data Structures & Algorithms (DSA)",
         image:
           "/images/dsa.png",
       },
@@ -41,22 +41,22 @@ export const skills = [
     title: "CS Fundamentals",
     skills: [
       {
-        name: "Object-Oriented Programming System",
+        name: "Object-Oriented Programming (OOP)",
         image:
           "/images/oops.png",
       },
       {
-        name: "Database Management System",
+        name: "Database Management System (DBMS)",
         image:
           "/images/dbms.jpg",
       },
       {
-        name: "Operating Systems",
+        name: "Operating Systems (OS)",
         image:
           "/images/os.png",
       },
       {
-        name: "Computer Networks",
+        name: "Computer Networks (CN)",
         image:
           "/images/cn.png",
       },
@@ -85,7 +85,7 @@ export const skills = [
           "/images/tailwindcss.png",
       },
       {
-        name: "React",
+        name: "React.js",
         image:
           "/images/react.png",
       },
@@ -95,11 +95,11 @@ export const skills = [
           "/images/redux.svg",
       },
       {
-        name: "Node Js",
+        name: "Node.js",
         image: "/images/nodejs.jpg",
       },
       {
-        name: "Express",
+        name: "Express.js",
         image:
           "/images/express.png",
       },
@@ -246,7 +246,7 @@ export const experiences = [
     role: "Full Stack Developer Intern ",
     company: "Revonextsoft Technologies Pvt. Ltd. ",
     date: "Jan 2025 - Present",
-    desc: "Built responsive UIs using JS, HTML, CSS, Tailwind CSS, and React, with a focus on modular design, performance, and cross-device compatibility. Developed scalable backend REST APIs with Node.js, Express, and MongoDB, implementing JWT-based authentication, structured error handling, and testing via Postman. Created full-stack MERN applications with features like watch history, subscriptions, profile management, and media handling using Cloudinary and Multer.",
+    desc: "Worked on full-stack development using the MERN stack, where I built responsive and modular UI components with React and Tailwind CSS, developed and optimized Node.js/Express REST APIs with JWT-based authentication and structured error handling, implemented features such as watch history, subscriptions, profile management, and media uploads using Cloudinary & Multer, performed thorough API testing and debugging with Postman, and deployed applications on cloud environments with GitHub Actions for streamlined CI/CD workflows.",
     skills: [
       "React",
       "Redux",
@@ -266,7 +266,7 @@ export const experiences = [
     role: "Machine Learning Intern",
     company: "Orimark Technologies Pvt. Ltd.",
     date: "Oct 2023",
-    desc: "Gained hands-on experience in ML concepts, algorithms, and real-world applications and built a credit card fraud detection model, which enhanced my understanding of data preprocessing, model training, and evaluation techniques.",
+    desc: "Gained hands-on experience in ML concepts, algorithms, and real-world applications and built a credit card fraud detection model, improving understanding of data preprocessing, model training, and evaluation techniques.",
     skills: [
       "Python",
       "Supervised Learning",
@@ -333,7 +333,7 @@ export const projects = [
     title: "TwitTube",
     date: "Sept 2024 - Dec 2024",
     description:
-      "A backend system providing secure authentication, role-based access, media storage, and scalable REST APIs for social media functionality.",
+      "Backend system providing secure authentication, role-based access, media storage, and scalable REST APIs for social media functionality.",
     image: "/images/TwitTube.png",
     tags: [
       "Node.js",
@@ -357,7 +357,7 @@ export const projects = [
     title: "BlogHorizon",
     date: "May 2024 - Aug 2024",
     description:
-      "A blogging platform with user authentication, rich text editing, and seamless post rendering.",
+      "Blogging platform with user authentication, rich text editing, and seamless post rendering.",
     image:"/images/blogHorizon.png",
     tags: [
       "React",
@@ -380,7 +380,7 @@ export const projects = [
     title: "ShutterVibe",
     date: "Jan 2024 - Apr 2024",
     description:
-      "A photography portfolio website with React Router and a responsive design.",
+      "Photography portfolio website with React Router and a responsive design.",
     image:"/images/shuttervibe.png",
     tags: [
       "React",
@@ -399,7 +399,7 @@ export const projects = [
     title: "Currency Converter",
     date: "Jan 2024 - Apr 2024",
     description:
-      "A real-time currency converter with API integration and a smooth UI.",
+      "Real-time currency converter with API integration and a smooth UI.",
     image:"/images/currencyconverter.png",
     tags: [
         "React",
@@ -418,7 +418,7 @@ export const projects = [
     title: "Profile Login",
     date: "Jan 2024 - Apr 2024",
     description:
-      "A modern authentication page with React and Context API.",
+      "Modern authentication page with React and Context API.",
     image:"/images/profilelogin.png",
     tags: [
       "React",
@@ -437,7 +437,7 @@ export const projects = [
     title: "TaskNest",
     date: "Jan 2024 - Apr 2024",
     description:
-      "A React-based to-do list application with local storage support, real-time task management, and a modern UI.",
+      "To-do list application with local storage support, real-time task management, and a modern UI.",
     image:"/images/tasknest.png",
     tags: [
       "React",
@@ -457,7 +457,7 @@ export const projects = [
     title: "TickTask",
     date: "Jan 2024 - Apr 2024",
     description:
-      "A simple React-based to-do list application with real-time task management, and a modern UI.",
+      "To-do list application with real-time task management, and a modern UI.",
     image:"/images/ticktask.png",
     tags: [
       "React",
