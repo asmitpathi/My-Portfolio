@@ -12,7 +12,7 @@ export const Bio = {
     "Software Engineer with hands-on experience in full-stack development, passionate about building reliable and scalable web applications. I enjoy solving real-world problems using modern frameworks, clean code practices, and efficient design principles. Constantly learning and exploring new technologies to deliver impactful software solutions.",
   github: "https://github.com/asmitpathi",
   resume:
-    "https://drive.google.com/file/d/1ChupkILPQgluv-jTXNeUGVn-ox7zG7_e/view?usp=sharing",
+    "https://drive.google.com/file/d/1_J-1lAFKp2x95FpUkzQKhgk-oHlSJf24/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/asmitpathi/",
 };
 
