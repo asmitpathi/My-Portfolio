@@ -9,7 +9,7 @@ export const Bio = {
     "Programmer",
   ],
   description:
-    "Software Engineer with hands-on experience in full-stack development, building reliable web applications, and solving real-world problems using modern frameworks and clean code practices.",
+    "Software Engineer with hands-on experience in full-stack development, passionate about building reliable and scalable web applications. I enjoy solving real-world problems using modern frameworks, clean code practices, and efficient design principles. Constantly learning and exploring new technologies to deliver impactful software solutions.",
   github: "https://github.com/asmitpathi",
   resume:
     "https://drive.google.com/file/d/1ChupkILPQgluv-jTXNeUGVn-ox7zG7_e/view?usp=sharing",
@@ -305,7 +305,7 @@ export const education = [
     date: "Sept 2021 - May 2025",
     grade: "8.75 CGPA",
     desc: "Completed my Bachelor of Technology in Computer Science with a specialization in AI and Robotics at Vellore Institute of Technology, Chennai, with a CGPA of 8.75. My coursework has provided me with a strong foundation in Data Structures and Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. In addition to my academics, I have gained practical experience in web development, AI, and machine learning, which has strengthened my technical expertise, problem-solving skills, and ability to work on scalable solutions.",
-    degree: "Bachelor of Technology, Computer Science and Engineering with specialization in AI & Robotics",
+    degree: "B.Tech in Computer Science and Engineering with specialization in Artificial Intelligence and Robotics",
   },
   {
     id: 1,
